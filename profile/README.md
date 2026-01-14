@@ -13,13 +13,14 @@ Active in the Ethereum ecosystem since 2016, we specialize in the security of hi
 * Lending & Liquidity: Auditing modular vault kits and complex interest-rate logic.
 * RWA & Tokenization: Verifying the integrity of institutional real-world asset protocols.
 * Governance & Staking: Securing DAO treasuries and multi-tier incentive systems.
-* Agent automization: Security audits of backend logic in Python and NodeJs. 
+* Agent automation: Security audits of backend logic written in Python and Node.js. 
   
 
 ## Institutional Track Record
 
-Contracts audited by Team Omega have cumulatively managed and protected hundreds of millions of Dollar value in TVL. 
+Contracts audited by Team Omega have cumulatively managed and protected hundreds of millions of USD value in Total Value Locked (TVL). 
 We serve as a trusted security partner for the industry’s most critical infrastructure, including:
+
 * Gnosis: Security reviews for the Gnosis Bridge and the Hashi cross-chain protocol.   
 * Euler Finance: Technical analysis and rigorous auditing of the modular Euler V2 architecture.
 * Backed Finance: Primary security oversight for the leading RWA tokenization framework.
@@ -41,6 +42,6 @@ Our model is built on Seniority and Value. Unlike larger firms, you work directl
 ## Contact & Reports
 
 * https://teamomega.eth.limo/
-* Public Audit Reports: github.com/OmegaAudits/audits
+* Public Audit Reports: https://github.com/OmegaAudits/audits
 * Inquiries: omegaaudits@protonmail.com
 
